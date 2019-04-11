@@ -20,7 +20,7 @@
     "url": "https://github.com/getgauge-examples/mocha-taiko/issues"
   },
   "homepage": "https://github.com/getgauge-examples/mocha-taiko#readme",
-  "devDependencies": {
+  "dependencies": {
     "mocha": "^6.1.2",
     "taiko": "^0.6.0"
   }
